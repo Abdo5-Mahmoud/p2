@@ -589,7 +589,7 @@ ul li a{
 }
 .feature .container .cards .sec .card .img:hover .flipcard{
     transform: rotate(0deg);
-    background-color: #080e2459;
+    background-color: #eeeff3ad;
 }
 .feature .container .cards .sec .card .img .flipcard .icons{
     position: absolute;
